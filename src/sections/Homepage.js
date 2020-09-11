@@ -42,8 +42,6 @@ const Homepage = () => {
                 steps={["Watching ", 1000, "datching", 1000]}
               />
             </h1>
-
-            <Description />
           </div>
         </div>
       </header>

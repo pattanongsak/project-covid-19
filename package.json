@@ -1,6 +1,7 @@
 {
   "name": "project-covid-19",
   "version": "0.1.0",
+  "homepage": "http://localhost:81/covid/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
