@@ -35,13 +35,15 @@ const Homepage = () => {
           <div className="intro-text">
             <div className="text-justify">Welcome To Virus covid-19</div>
             <h1 className="intro-header text-warning text-justify">
-              Thank for{" "}
+              Thank for sfsddasd{" "}
               <Typical
                 loop={Infinity}
                 wrapper="b"
                 steps={["Watching ", 1000, "datching", 1000]}
               />
             </h1>
+
+            <Description />
           </div>
         </div>
       </header>
